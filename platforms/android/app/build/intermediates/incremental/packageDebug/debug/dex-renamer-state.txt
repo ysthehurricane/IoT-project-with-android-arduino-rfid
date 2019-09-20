@@ -1,0 +1,4 @@
+#Fri Jan 25 13:30:25 IST 2019
+base.0=G\:\\ionic\\pushpam-motors\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
